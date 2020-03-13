@@ -1,0 +1,101 @@
+.option-container {
+    display: flex;
+    margin-bottom: 0.5rem;
+    width: 100%;
+    font-size: 1.8rem;
+    border: 0.1rem solid rgba(53, 2, 54, 0.25);
+    background-color: white;
+}
+
+.option-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0 rgb(51, 103, 214);
+    transform: translateY(-0.1rem);
+    transition: transform 150ms;
+}
+
+.option-prefix {
+    padding: 1.5rem 2.5rem;
+    background-color: rgb(51, 103, 214);
+    color: white;
+}
+
+.option-text {
+    padding: 1.5rem;
+   width: 100%;
+}
+
+.correct {
+    background-color: #2fa745;
+}
+
+.incorrect {
+    background-color: #dc3545;
+}
+
+#hud {
+    display: flex;
+    justify-content: space-between;
+}
+
+.hud-prefix {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.hud-main-text {
+    text-align: center;
+}
+
+#progressBar {
+    width: 20rem;
+    height: 4rem;
+    border: 0.3rem solid rgb(51, 103, 214);;
+    margin-top: 1.5rem;
+    border-radius: 3%;
+}
+
+#progressBarFull {
+    height: 3.4rem;
+    background-color: rgb(51, 103, 214);
+    width: 0%;
+}
+
+#loader {
+    border: 1.6rem solid white;
+    border-radius: 50%;
+    border-top: 1.6rem solid  #330f86;
+    width: 12rem;
+    height: 12rem;
+    animation: load 2s linear infinite;
+}
+
+@keyframes load {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+button {
+    font-size: 1.8rem;
+    padding: 0.5rem 0.5rem;
+    width: 10rem;
+    text-align: center;
+    border: 0.1rem solid rgb(51, 103, 214);
+    margin: 2rem;
+    margin-bottom: 1.5rem;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(51, 103, 214);
+}
+   
+button:hover {
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0  rgb(51, 103, 214);
+    border: 0.2rem solid white;
+    transform: translateY(-0.1rem);
+    transition: transform 150ms;
+}

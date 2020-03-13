@@ -1,0 +1,82 @@
+[
+    {
+        "question": "What is the world's most expensive spice by weight?",
+        "option1": "Saffro",
+        "option2": "Cinnamon",
+        "option3": "Cardamom",
+        "option4": "Vanilla>",
+        "answer": 1
+    },
+    {
+        "question": "Rolex is a company that specializes in what type of product?",
+        "option1": "Car",
+        "option2": "Sport equipment",
+        "option3": "Watches",
+        "option4": "Clothing",
+        "answer": 3
+    },
+    {
+        "question": "Which language is NOT Indo-European?",
+        "option1": "Russian",
+        "option2": "Hungarian",
+        "option3": "Greek",
+        "option4": "Latvian",
+        "answer": 2
+    },
+    {
+        "question": "In 2013 how much money was lost by Nigerian scams?", 
+        "option1": "$95 Million",
+        "option2": "$956 Million",
+        "option3": "$2.7 Billion",
+        "option4": "$12.7 Billion",
+        "answer": 4
+    },
+    {
+        "question": "When did the website 'Facebook' launch?",
+        "option1": "2005",
+        "option2": "2004",
+        "option3": "2003",
+        "option4": "2006",
+        "answer": 2
+    },
+    {
+        "question": "What is the world's most expensive spice by weight?",
+        "option1": "Saffro",
+        "option2": "Cinnamon",
+        "option3": "Cardamom",
+        "option4": "Vanilla>",
+        "answer": 1
+    },
+    {
+        "question": "Rolex is a company that specializes in what type of product?",
+        "option1": "Car",
+        "option2": "Sport equipment",
+        "option3": "Watches",
+        "option4": "Clothing",
+        "answer": 3
+    },
+    {
+        "question": "Which language is NOT Indo-European?",
+        "option1": "Russian",
+        "option2": "Hungarian",
+        "option3": "Greek",
+        "option4": "Latvian",
+        "answer": 2
+    },
+    {
+        "question": "In 2013 how much money was lost by Nigerian scams?", 
+        "option1": "$95 Million",
+        "option2": "$956 Million",
+        "option3": "$2.7 Billion",
+        "option4": "$12.7 Billion",
+        "answer": 4
+    },
+    {
+        "question": "When did the website 'Facebook' launch?",
+        "option1": "2005",
+        "option2": "2004",
+        "option3": "2003",
+        "option4": "2006",
+        "answer": 2
+    }
+]
